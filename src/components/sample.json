@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Entertainment Desk",
+      "title": "Rashmika's 'Bollywood has romantic songs south has item numbers' divides Twitter - Hindustan Times",
+      "description": "Rashmika Mandanna’s comment about south Indian film music has been criticised by a section of people online, with some reacting angrily on social media. Some fans have also defended the actor.  | Bollywood",
+      "url": "https://www.hindustantimes.com/entertainment/bollywood/rashmika-mandanna-s-bollywood-has-romantic-songs-south-has-item-numbers-divides-twitter-101672295614205.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/12/29/1600x900/rashmika_kantara_1670565656911_1672296326796_1672296326796.jpg",
+      "publishedAt": "2022-12-29T06:49:39Z",
+      "content": "Rashmika Mandanna's latest comment on the music of Bollywood films versus that in south Indian cinema has not gone down well with a section of people. At the song launch of her forthcoming Hindi rele… [+2397 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": null,
+      "title": "'Nashe mein talli hai': Sohail Khan's 'drunk' video from Salman Khan's birthday bash goes viral; netizens troll the actor - Times of India",
+      "description": "Salman Khan's 57th birthday bash was a star-studded one which was attended by Shah Rukh Khan, Kartik Aaryan, Pooja Hegde among many Bollywood A listers. His family too was present who also posed for the paparazzi. Now, a video of Salman's brother Sohail surfa…",
+      "url": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/nashe-mein-talli-hai-sohail-khans-drunk-video-from-salman-khans-birthday-bash-goes-viral-netizens-troll-the-actor/videoshow/96589233.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/96589233/size-54066/96589233.jpg",
+      "publishedAt": "2022-12-29T06:46:40Z",
+      "content": "Salman Khan\r\n's 57th birthday bash was a star-studded one which was attended by Shah Rukh Khan\r\n, Kartik Aaryan, Pooja Hegde\r\n among many Bollywood A listers. His family too was present who also pose… [+470 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Chinese Woman Suspected Of Spying On Dalai Lama Detained In Bihar's Gaya - NDTV",
+      "description": "A Chinese woman suspected of spying on Dalai Lama detained by police in Bihar's Gaya district today. She is likely to be deported back to China.",
+      "url": "https://www.ndtv.com/india-news/chinese-woman-suspected-of-spying-on-dalai-lama-detained-by-police-in-bihars-bodh-gaya-district-likely-to-be-deported-3648332",
+      "urlToImage": "https://c.ndtvimg.com/2022-12/52ig3jj8_chines-woman-ani-twitter-_625x300_29_December_22.jpg",
+      "publishedAt": "2022-12-29T14:04:00Z",
+      "content": "New Delhi: A Chinese woman suspected of spying on Dalai Lama was detained by police today in Bihar's Gaya district. She is likely to be deported back to China.\r\nEarlier today, local police had sounde… [+885 chars]"
+    }
+  ]
+}
