@@ -1,3 +1,17 @@
+# NewsHub
+
+NewsHub is a news application built using React that utilizes the News API to provide users with a wide range of news articles from various sources. The app features an infinite scroll feature that allows users to easily browse through a vast collection of news articles.
+
+![](https://github.com/theprabhatraj/NewsHub-React_App/blob/main/readme_components/news_app_gif1.gif)
+
+In addition to the infinite scroll feature, NewsHub also allows users to choose different categories of news to read. This makes it easy for users to find news articles that are relevant to their interests. Users can choose from categories such as technology, sports, entertainment, and more.
+
+![](https://github.com/theprabhatraj/NewsHub-React_App/blob/main/readme_components/news_app_gif2.gif)
+
+One of the key features of NewsHub is the "Read more" button that is available on each news article. By clicking on this button, users can access more detailed information about a specific news article, including a full-text version of the article. This makes it easy for users to stay informed about the latest news and events happening around the world.
+
+Overall, NewsHub is a great news application for anyone looking for a user-friendly and easy-to-use way to stay informed about the latest news and events. With its wide range of news categories and detailed article information, it is sure to provide users with a comprehensive and enjoyable news reading experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
